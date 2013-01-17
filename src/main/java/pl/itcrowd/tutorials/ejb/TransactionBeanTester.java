@@ -34,7 +34,9 @@ public class TransactionBeanTester {
         BlogPost result;
 
         UserTransaction ut = sessionContext.getUserTransaction();
-
+        blogPostAuthor.createNewBlogPost();
+        blogPostAuthor.createNewBlogPost();
+        blogPostAuthor.createNewBlogPost();
 
         try {
             ut.begin();

@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22383e83-9f77-4476-9367-810642170bb2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_ejb_jboss_ejb_api_3_1_spec_1_0_2_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_1_spec_1_0_1_Final.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BeanManagedTransactions.iml" afterPath="$PROJECT_DIR$/BeanManagedTransactions.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/ejb/BeanReaderException.java" afterPath="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/ejb/BeanReaderException.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/ejb/BlogPost.java" afterPath="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/ejb/BlogPost.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/ejb/BlogPostAuthor.java" afterPath="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/ejb/BlogPostAuthor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/ejb/MySingleton.java" afterPath="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/ejb/MySingleton.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/ejb/TransactionBeanTester.java" afterPath="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/ejb/TransactionBeanTester.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BeanManagedTransactions.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,7 +70,7 @@
       <file leaf-file-name="TransactionBeanTester.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/ejb/TransactionBeanTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="50" selection-start="1604" selection-end="1604" vertical-scroll-proportion="0.66012084">
+            <state line="38" column="41" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.25226587">
               <folding />
             </state>
           </provider>
@@ -538,7 +527,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/ejb/TransactionBeanTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="50" selection-start="1604" selection-end="1604" vertical-scroll-proportion="0.66012084">
+        <state line="38" column="41" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.25226587">
           <folding />
         </state>
       </provider>
