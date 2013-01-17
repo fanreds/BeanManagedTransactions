@@ -40,9 +40,7 @@ public class MySingleton {
     public void onCreate()
     {
         LOGGER.info("Transaction= " + txReg.getTransactionKey());
-        blogPostAuthor.createNewBlogPost();
-        blogPostAuthor.createNewBlogPost();
-        blogPostAuthor.createNewBlogPost();
+
 
         transactionBeanTester.exec();
 

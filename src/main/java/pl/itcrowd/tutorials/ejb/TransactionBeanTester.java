@@ -30,6 +30,7 @@ public class TransactionBeanTester {
     private TransactionSynchronizationRegistry txReg;
 
 
+
     public void exec() {
         BlogPost result;
 
@@ -45,8 +46,8 @@ public class TransactionBeanTester {
 
             try {
                 result = blogPostAuthor.readPosts();
-                if (false)
-                    throw new BeanReaderException("Error");
+                if (true)
+                    throw new BeanReaderException("Error Key:"+txReg.getTransactionStatus());
                 else if (result != null)
                     blogPostAuthor.updatePosts(result);
                 blogPostAuthor.readPosts();
