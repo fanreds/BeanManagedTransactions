@@ -7,5 +7,12 @@ package pl.itcrowd.tutorials.ejb;
  * Time: 10:41 AM
  * To change this template use File | Settings | File Templates.
  */
-public class BeanReaderException {
+public class BeanReaderException extends Exception{
+
+
+    public BeanReaderException(String message) {
+        super(message);
+    }
+
+
 }
